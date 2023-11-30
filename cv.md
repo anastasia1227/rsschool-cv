@@ -6,7 +6,7 @@
 + __Discord:__ anastasia1227
 
 ## About my
-### Personal qualities: goodwill, responsibility, diligence, punctuality, self-development. 
++ Personal qualities: goodwill, responsibility, diligence, punctuality, self-development. 
 + Goal: to become a programmer.
 
 ## Skills and work experience
